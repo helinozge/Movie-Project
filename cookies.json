@@ -1,0 +1,67 @@
+[
+    {
+        "domain": ".amazon.com",
+        "expirationDate": 1779480176.245038,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "ubid-main",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "134-5348644-8388342"
+    },
+    {
+        "domain": ".amazon.com",
+        "expirationDate": 1779480177.239629,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "session-token",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "oDZl8oHhToVTB1Y2IOAVBmvn0efolPjvN3PSPooU0CTFIe5TtZTF1rkU9pfL3wyeJ+wxwOg7bH6JRfO23Qnx1H5ZyZGlSFc0tyz7o/FpextyOOH+s3XqjmiqLtPnwQEyXbSFKjR3TrrUgYZuvW3RQ53CaU6WxidO9kX28+xGrOnG/wtBwhpyMZOzGJRmi6Sw6Y52PtN41qNSHSapykGVAX18A486KBxLR+gvF9mi7e3plMgLKei9SiRbr2oBdfHILxLdhXIZozkEB/L+j9uqw0PATv7Tye8E+b+4yEVc0pv7jLaN+igYQc3h5kSG/I9Sykvt5f2wXF/BVuz2dq/8pVCO8spFk2y4"
+    },
+    {
+        "domain": ".amazon.com",
+        "expirationDate": 1779480172.261813,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "sp-cdn",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "\"L5Z9:NL\""
+    },
+    {
+        "domain": ".amazon.com",
+        "expirationDate": 1779480172.261711,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "session-id-time",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "2082787201l"
+    },
+    {
+        "domain": ".amazon.com",
+        "expirationDate": 1779480172.261591,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "session-id",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "146-4009226-0087121"
+    }
+]
