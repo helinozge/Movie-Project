@@ -2,6 +2,8 @@
 ## README file with the following structure:
 
      - Title of the project
+
+     
      - Introduction to your project.
      - Data you are using (and comments, main challenges, strengths & weaknesses, etc...)
      - Questions you want to answer (maybe divided by different topics). Each question should include a conclusion written in a markdown cell.
