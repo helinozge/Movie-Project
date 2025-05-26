@@ -60,7 +60,7 @@
         "budget": null,
         "grossWorldwide": null,
         "averageRating": 6.1,
-        "numVotes": 8674,
+        "numVotes": 8695,
         "metascore": 54
     },
     {
@@ -118,7 +118,7 @@
         "budget": null,
         "grossWorldwide": null,
         "averageRating": 7,
-        "numVotes": 3252,
+        "numVotes": 3264,
         "metascore": null
     },
     {
@@ -283,7 +283,7 @@
         "budget": null,
         "grossWorldwide": null,
         "averageRating": 5.6,
-        "numVotes": 677,
+        "numVotes": 682,
         "metascore": null
     },
     {
@@ -428,7 +428,7 @@
         "budget": 200000000,
         "grossWorldwide": 672737639,
         "averageRating": 6.6,
-        "numVotes": 67722,
+        "numVotes": 67994,
         "metascore": 56
     },
     {
@@ -479,7 +479,7 @@
         "budget": null,
         "grossWorldwide": null,
         "averageRating": 8.8,
-        "numVotes": 60,
+        "numVotes": 61,
         "metascore": null
     },
     {
@@ -532,7 +532,7 @@
         "budget": 15000000,
         "grossWorldwide": 13896775,
         "averageRating": 7,
-        "numVotes": 4867,
+        "numVotes": 4895,
         "metascore": 69
     },
     {
@@ -676,7 +676,7 @@
         "budget": null,
         "grossWorldwide": null,
         "averageRating": 6.4,
-        "numVotes": 475,
+        "numVotes": 477,
         "metascore": null
     },
     {
@@ -779,7 +779,7 @@
         "budget": null,
         "grossWorldwide": null,
         "averageRating": 6.1,
-        "numVotes": 4642,
+        "numVotes": 4655,
         "metascore": null
     },
     {
@@ -964,7 +964,7 @@
         "budget": 100000000,
         "grossWorldwide": 969547158,
         "averageRating": 6.2,
-        "numVotes": 66782,
+        "numVotes": 66911,
         "metascore": 52
     },
     {
@@ -1017,49 +1017,8 @@
         "budget": null,
         "grossWorldwide": null,
         "averageRating": 5.3,
-        "numVotes": 3137,
+        "numVotes": 3149,
         "metascore": 61
-    },
-    {
-        "id": "tt31614867",
-        "url": "https://www.imdb.com/title/tt31614867/",
-        "primaryTitle": "DreadClub: Vampire's Verdict",
-        "originalTitle": "DreadClub: Vampire's Verdict",
-        "type": "movie",
-        "description": "Betty Gray, a college student obsessed with gothic romances, finds herself living one when she falls for Duchamps De Ve--a man on trial for being a vampire.",
-        "primaryImage": "https://m.media-amazon.com/images/M/MV5BNDc2ZjNiMzEtNjMxNC00Mzc1LWFjYTMtOTE1MzFlZjMwZDRjXkEyXkFqcGc@._V1_.jpg",
-        "trailer": null,
-        "contentRating": null,
-        "isAdult": false,
-        "releaseDate": "2024-07-26",
-        "startYear": 2024,
-        "endYear": null,
-        "runtimeMinutes": null,
-        "genres": [
-            "Animation",
-            "Horror",
-            "Mystery"
-        ],
-        "interests": [
-            "Animation",
-            "Horror",
-            "Mystery",
-            "Romance"
-        ],
-        "countriesOfOrigin": [
-            "US"
-        ],
-        "externalLinks": null,
-        "spokenLanguages": [
-            "en"
-        ],
-        "filmingLocations": null,
-        "productionCompanies": [],
-        "budget": 405,
-        "grossWorldwide": null,
-        "averageRating": 5,
-        "numVotes": 61,
-        "metascore": null
     },
     {
         "id": "tt36120770",
@@ -1098,8 +1057,8 @@
         ],
         "budget": null,
         "grossWorldwide": null,
-        "averageRating": 8.5,
-        "numVotes": 13,
+        "averageRating": 8.6,
+        "numVotes": 14,
         "metascore": null
     },
     {
@@ -1159,7 +1118,7 @@
         "budget": 75000000,
         "grossWorldwide": 129408392,
         "averageRating": 7.6,
-        "numVotes": 52197,
+        "numVotes": 52367,
         "metascore": 65
     },
     {
@@ -1226,7 +1185,7 @@
         "budget": 200000000,
         "grossWorldwide": 1698863816,
         "averageRating": 7.5,
-        "numVotes": 219077,
+        "numVotes": 219252,
         "metascore": 73
     },
     {
@@ -1397,7 +1356,7 @@
         "budget": null,
         "grossWorldwide": 17055242,
         "averageRating": 5.9,
-        "numVotes": 1969,
+        "numVotes": 1973,
         "metascore": null
     },
     {
@@ -1461,7 +1420,7 @@
         "budget": 150000000,
         "grossWorldwide": 1059242164,
         "averageRating": 6.6,
-        "numVotes": 105648,
+        "numVotes": 105891,
         "metascore": 58
     },
     {
@@ -1513,7 +1472,7 @@
         "budget": null,
         "grossWorldwide": null,
         "averageRating": 5.5,
-        "numVotes": 5457,
+        "numVotes": 5465,
         "metascore": null
     },
     {
@@ -1709,7 +1668,7 @@
         "budget": null,
         "grossWorldwide": null,
         "averageRating": 6.3,
-        "numVotes": 17378,
+        "numVotes": 17392,
         "metascore": 72
     },
     {
@@ -1862,7 +1821,7 @@
         "budget": 16000000,
         "grossWorldwide": 10717082,
         "averageRating": 6.9,
-        "numVotes": 5658,
+        "numVotes": 5675,
         "metascore": 63
     },
     {
@@ -1925,7 +1884,7 @@
         "budget": null,
         "grossWorldwide": null,
         "averageRating": 5.5,
-        "numVotes": 7636,
+        "numVotes": 7656,
         "metascore": 54
     },
     {
@@ -1985,7 +1944,7 @@
         "budget": 40000000,
         "grossWorldwide": 32227855,
         "averageRating": 5.7,
-        "numVotes": 8586,
+        "numVotes": 8611,
         "metascore": 34
     },
     {
@@ -2042,7 +2001,7 @@
         "budget": null,
         "grossWorldwide": null,
         "averageRating": 7.8,
-        "numVotes": 225,
+        "numVotes": 228,
         "metascore": null
     },
     {
@@ -2160,7 +2119,7 @@
         "budget": 60000000,
         "grossWorldwide": 257211519,
         "averageRating": 5.7,
-        "numVotes": 24404,
+        "numVotes": 24439,
         "metascore": 31
     },
     {
@@ -2266,7 +2225,7 @@
         "budget": 200000,
         "grossWorldwide": 218040,
         "averageRating": 6.9,
-        "numVotes": 2060,
+        "numVotes": 2072,
         "metascore": 82
     },
     {
@@ -2328,7 +2287,7 @@
         "budget": 110000000,
         "grossWorldwide": 190535708,
         "averageRating": 6.4,
-        "numVotes": 58814,
+        "numVotes": 58868,
         "metascore": 46
     },
     {
@@ -2371,7 +2330,7 @@
         "budget": null,
         "grossWorldwide": null,
         "averageRating": 6.5,
-        "numVotes": 86,
+        "numVotes": 87,
         "metascore": null
     },
     {
@@ -2465,7 +2424,7 @@
         "budget": null,
         "grossWorldwide": null,
         "averageRating": 8.1,
-        "numVotes": 9,
+        "numVotes": 11,
         "metascore": null
     },
     {
@@ -2752,7 +2711,7 @@
         "budget": 78000000,
         "grossWorldwide": 333165945,
         "averageRating": 8.2,
-        "numVotes": 169857,
+        "numVotes": 170748,
         "metascore": 85
     },
     {
@@ -2865,7 +2824,7 @@
         "budget": 30000000,
         "grossWorldwide": 20658572,
         "averageRating": 6.3,
-        "numVotes": 31681,
+        "numVotes": 31780,
         "metascore": 54
     },
     {
@@ -2921,7 +2880,7 @@
         "budget": null,
         "grossWorldwide": null,
         "averageRating": 6.2,
-        "numVotes": 8617,
+        "numVotes": 8627,
         "metascore": null
     },
     {
@@ -3065,7 +3024,7 @@
         "budget": null,
         "grossWorldwide": 789002,
         "averageRating": 5.7,
-        "numVotes": 2214,
+        "numVotes": 2219,
         "metascore": 55
     },
     {
@@ -3177,7 +3136,7 @@
         "budget": 90000000,
         "grossWorldwide": 168630103,
         "averageRating": 6.7,
-        "numVotes": 23413,
+        "numVotes": 23704,
         "metascore": 65
     },
     {
@@ -3281,7 +3240,7 @@
         "budget": null,
         "grossWorldwide": 4979702,
         "averageRating": 5.1,
-        "numVotes": 1031,
+        "numVotes": 1034,
         "metascore": null
     },
     {
@@ -3379,7 +3338,7 @@
         "budget": null,
         "grossWorldwide": 13839,
         "averageRating": 7.3,
-        "numVotes": 1810,
+        "numVotes": 1820,
         "metascore": null
     },
     {
@@ -3489,7 +3448,7 @@
         "budget": 85000000,
         "grossWorldwide": 547689492,
         "averageRating": 6.3,
-        "numVotes": 69167,
+        "numVotes": 69241,
         "metascore": 54
     },
     {
@@ -3654,7 +3613,7 @@
         "budget": 40000000,
         "grossWorldwide": 144094355,
         "averageRating": 6.3,
-        "numVotes": 9626,
+        "numVotes": 9661,
         "metascore": 66
     },
     {
@@ -3716,7 +3675,7 @@
         "budget": null,
         "grossWorldwide": null,
         "averageRating": 5.7,
-        "numVotes": 2998,
+        "numVotes": 3003,
         "metascore": 64
     },
     {
@@ -3820,7 +3779,7 @@
         "budget": null,
         "grossWorldwide": 12646317,
         "averageRating": 7.8,
-        "numVotes": 15347,
+        "numVotes": 15383,
         "metascore": 90
     },
     {
@@ -3887,7 +3846,7 @@
         "budget": null,
         "grossWorldwide": null,
         "averageRating": 6.9,
-        "numVotes": 6465,
+        "numVotes": 6475,
         "metascore": 66
     },
     {
@@ -3944,7 +3903,7 @@
         "budget": null,
         "grossWorldwide": null,
         "averageRating": 7.1,
-        "numVotes": 6796,
+        "numVotes": 6806,
         "metascore": 71
     }
 ]
